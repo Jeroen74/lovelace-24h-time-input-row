@@ -1,1 +1,1 @@
-# Lovelace-24h-time-input-row
+# lovelace-24h-time-input-row
