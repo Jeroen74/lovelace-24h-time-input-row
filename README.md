@@ -31,4 +31,4 @@ entities:
     name: time input
  ```
  
- ![My Image](example/entities.jpg)
+ ![alt text](example/entities.jpg)
