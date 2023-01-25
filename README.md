@@ -19,3 +19,16 @@ Add to your lovelace Yaml the following:
 
 This can also be used in for example the enitities card.
 The name and icon are optional settings.
+
+# Example
+
+```yaml
+- type: entities
+  entities:
+    - type: custom:24h-time-input
+      entity: datetime_input.example_helper
+      icon: mdi:clock
+      name: time input
+ ```
+ 
+ ![My Image](example/entities.jpg)
