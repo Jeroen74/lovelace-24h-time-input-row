@@ -11,7 +11,7 @@ Download and copy the `24h-time-input-row.js` file to the `\config\www\<your-loc
 Add to your lovelace Yaml the following:
 
 ```yaml
-  type: custom:24h-time-input
+  type: custom:lovelace-time-input-row
   entity: datetime_input.example_helper
   icon: mdi:clock
   name: time input
@@ -25,7 +25,7 @@ The name and icon are optional settings.
 ```yaml
 type: entities
 entities:
-  - type: custom:24h-time-input
+  - type: custom:lovelace-time-input-row
     entity: datetime_input.example_helper
     icon: mdi:clock
     name: time input

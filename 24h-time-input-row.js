@@ -104,4 +104,4 @@ class TimeInput extends LitElement {
   }
 }
 
-customElements.define('24h-time-input', TimeInput);
+customElements.define('lovelace-time-input-row', TimeInput);
